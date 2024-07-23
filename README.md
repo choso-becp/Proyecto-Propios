@@ -1,5 +1,5 @@
 
-## Hola, soy Viego 👋
+## Hola, soy Brayan 👋
 
 <div>
 
@@ -10,7 +10,7 @@
 - 🧠 Actualmente Aprendiendo Javascript y Java
 - 👾 un **estudiante** que se abre camino en las cosas
 - 😄 Me encanta **divertirme** y probar nuevas cosas
-- 📫 Contactame: **cuellardiego310@gmail.com**
+- 📫 Contactame: **choso,becp@gmail.com**
   
 <h2> / Habilidades actuales / </h2>
   
